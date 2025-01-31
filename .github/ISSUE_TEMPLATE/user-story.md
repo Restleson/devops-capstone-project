@@ -3,7 +3,7 @@ name: user-story
 about: user-story
 title: user-story
 labels: ''
-assignees: NureBerehovyiDaniil
+assignees: Restleson
 
 ---
 
